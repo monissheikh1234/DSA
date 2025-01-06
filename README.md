@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/monissheikh1234/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/monissheikh1234/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/monissheikh1234/DSA/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/monissheikh1234/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/monissheikh1234/DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/monissheikh1234/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/monissheikh1234/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
