@@ -6,14 +6,20 @@ public:
         for(int i=0;i<nums.size();i++){
             umap[nums[i]]++;
         }
-     umap.find(1);
+    //  umap.find(1);
 
 
-   for (const auto & pair : umap) {
-        if (pair.second == 1) {
-            result=pair.first;
-        }
+//    for (const auto & pair : umap) {
+//         if (pair.second == 1) {
+//             result=pair.first;
+//         }
+//     }
+unordered_map<int,int>::iterator it;
+for(it=umap.begin();it!=umap.end();it++){
+    if(it->second==1){
+        result=it->first;
     }
+}
 
     return result;
     }
