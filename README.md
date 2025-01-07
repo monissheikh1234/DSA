@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/monissheikh1234/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/monissheikh1234/DSA/tree/master/0485-max-consecutive-ones) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/monissheikh1234/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
