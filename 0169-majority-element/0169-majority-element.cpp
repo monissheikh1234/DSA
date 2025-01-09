@@ -17,8 +17,6 @@ public:
         if(result.empty()){
             return 0;
         }
-        
-        
         sort(result.begin(),result.end());
         return result[result.size()-1];
      
