@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/monissheikh1234/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/monissheikh1234/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/monissheikh1234/DSA/tree/master/0584-find-customer-referee) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/monissheikh1234/DSA/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
