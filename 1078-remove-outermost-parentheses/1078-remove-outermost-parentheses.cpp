@@ -8,9 +8,13 @@ public:
                 if(count!=0){
 
                 result.push_back(s[i]);
+                count++;
                 
                 }
+                else{
+
                 count++;
+                }
             }
                
              if(s[i]==')'){
