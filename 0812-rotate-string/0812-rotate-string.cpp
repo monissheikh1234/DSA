@@ -8,5 +8,6 @@ public:
     string doubled = s + s;  // Double the string
     return doubled.find(goal) != string::npos;  // Check if goal is a substring
 
+
     }
 };
