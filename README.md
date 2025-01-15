@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/monissheikh1234/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/monissheikh1234/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/monissheikh1234/DSA/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/monissheikh1234/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/monissheikh1234/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/monissheikh1234/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/monissheikh1234/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/monissheikh1234/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/monissheikh1234/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/monissheikh1234/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/monissheikh1234/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
