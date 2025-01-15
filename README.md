@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/monissheikh1234/DSA/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/monissheikh1234/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String
 |  |
 | ------- |
