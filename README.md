@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/monissheikh1234/DSA/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/monissheikh1234/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/monissheikh1234/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/monissheikh1234/DSA/tree/master/0013-roman-to-integer) |
+| [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/monissheikh1234/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/monissheikh1234/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
