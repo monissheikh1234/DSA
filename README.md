@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/monissheikh1234/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/monissheikh1234/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/monissheikh1234/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/monissheikh1234/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/monissheikh1234/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/monissheikh1234/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/monissheikh1234/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/monissheikh1234/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
