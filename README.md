@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/monissheikh1234/DSA/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/monissheikh1234/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/monissheikh1234/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/monissheikh1234/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/monissheikh1234/DSA/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/monissheikh1234/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/monissheikh1234/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/monissheikh1234/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/monissheikh1234/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/monissheikh1234/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/monissheikh1234/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
