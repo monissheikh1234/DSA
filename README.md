@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/monissheikh1234/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/monissheikh1234/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/monissheikh1234/DSA/tree/master/0060-permutation-sequence) |
 | [0204-count-primes](https://github.com/monissheikh1234/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/monissheikh1234/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/monissheikh1234/DSA/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/monissheikh1234/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
