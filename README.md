@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/monissheikh1234/DSA/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/monissheikh1234/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/monissheikh1234/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/monissheikh1234/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/monissheikh1234/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/monissheikh1234/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/monissheikh1234/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/monissheikh1234/DSA/tree/master/0060-permutation-sequence) |
+| [0171-excel-sheet-column-number](https://github.com/monissheikh1234/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/monissheikh1234/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
