@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/monissheikh1234/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/monissheikh1234/DSA/tree/master/0041-first-missing-positive) |
+| [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/monissheikh1234/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/monissheikh1234/DSA/tree/master/0242-valid-anagram) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/monissheikh1234/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/monissheikh1234/DSA/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/monissheikh1234/DSA/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/monissheikh1234/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/monissheikh1234/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/monissheikh1234/DSA/tree/master/0205-isomorphic-strings) |
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/monissheikh1234/DSA/tree/master/0043-multiply-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
