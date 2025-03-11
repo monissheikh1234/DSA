@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/monissheikh1234/DSA/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/monissheikh1234/DSA/tree/master/0178-rank-scores) |
 | [0584-find-customer-referee](https://github.com/monissheikh1234/DSA/tree/master/0584-find-customer-referee) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/monissheikh1234/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
 |  |
 | ------- |
