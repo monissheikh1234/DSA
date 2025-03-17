@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/monissheikh1234/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/monissheikh1234/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/monissheikh1234/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/monissheikh1234/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/monissheikh1234/DSA/tree/master/0136-single-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/monissheikh1234/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/monissheikh1234/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/monissheikh1234/DSA/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
 |  |
