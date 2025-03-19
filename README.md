@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/monissheikh1234/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/monissheikh1234/DSA/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/monissheikh1234/DSA/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/monissheikh1234/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/monissheikh1234/DSA/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/monissheikh1234/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/monissheikh1234/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/monissheikh1234/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/monissheikh1234/DSA/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/monissheikh1234/DSA/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/monissheikh1234/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/monissheikh1234/DSA/tree/master/0812-rotate-string) |
