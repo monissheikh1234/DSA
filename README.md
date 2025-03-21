@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/monissheikh1234/DSA/tree/master/0035-search-insert-position) |
+| [0400-nth-digit](https://github.com/monissheikh1234/DSA/tree/master/0400-nth-digit) |
 | [0792-binary-search](https://github.com/monissheikh1234/DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/monissheikh1234/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
+| [0400-nth-digit](https://github.com/monissheikh1234/DSA/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/monissheikh1234/DSA/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/monissheikh1234/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/monissheikh1234/DSA/tree/master/2032-largest-odd-number-in-string) |
