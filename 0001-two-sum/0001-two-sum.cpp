@@ -1,17 +1,23 @@
+#include <unordered_map>
+ 
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-             unordered_map<int, int> hashMap; // To store value and its index
-    
-    for (int i = 0; i < nums.size(); i++) {
-        int complement = target - nums[i]; // Find the required complement
-        if (hashMap.find(complement) != hashMap.end()) {
-            // If complement exists in the map, return indices
-            return {hashMap[complement], i};
+        // Declare an unordered map to store the numbers and their indices
+        unordered_map<int, int> mp;
+       
+        // Loop through the array
+        for(int i = 0; i < nums.size(); i++){
+            // Check if the complement of the current number exists in the map
+            if(mp.find(target - nums[i]) == mp.end())
+                // If not, add the current number and its index to the map
+                mp[nums[i]] = i;
+            else
+                // If yes, return the indices of the current number and its complement
+                return {mp[target - nums[i]], i};
         }
-        hashMap[nums[i]] = i; // Store current value with its index
-    }
-    
-    return {};
+ 
+        // If no pair is found, return {-1, -1} as a default value
+        return {-1, -1};
     }
 };
