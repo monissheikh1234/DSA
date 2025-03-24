@@ -230,9 +230,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/monissheikh1234/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
