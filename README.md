@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/monissheikh1234/DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/monissheikh1234/DSA/tree/master/0792-binary-search) |
 | [1524-string-matching-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/1524-string-matching-in-an-array) |
+| [1656-count-good-triplets](https://github.com/monissheikh1234/DSA/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/monissheikh1234/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/monissheikh1234/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Two Pointers
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/monissheikh1234/DSA/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/monissheikh1234/DSA/tree/master/1656-count-good-triplets) |
 | [3548-find-the-count-of-good-integers](https://github.com/monissheikh1234/DSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
