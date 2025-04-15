@@ -2,12 +2,10 @@ class Solution {
 public:
     int maxProfit(std::vector<int>& prices) {
           int minPrice = INT_MAX, maxProfit = 0;
-    for (int price : prices) {
-        minPrice = min(minPrice, price);
-        maxProfit = max(maxProfit, price - minPrice);
-
+ for(int i=0;i<prices.size();i++){
+    minPrice=min(minPrice,prices[i]);
+    maxProfit=max(maxProfit,prices[i]-minPrice);
+ }
+return maxProfit;
     }
-     
-    return maxProfit;}
-
 };
