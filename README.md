@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/monissheikh1234/DSA/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/monissheikh1234/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/monissheikh1234/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/monissheikh1234/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/monissheikh1234/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3548-find-the-count-of-good-integers](https://github.com/monissheikh1234/DSA/tree/master/3548-find-the-count-of-good-integers) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/monissheikh1234/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
 |  |
 | ------- |
