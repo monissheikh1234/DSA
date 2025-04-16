@@ -1,25 +1,25 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-           string normalizedString = "";
+        int start = 0;
+        int last = s.length() - 1;
 
-    // Step 1: Normalize the string
-    for (char c : s) {
-        if (isalnum(c)) {
-            normalizedString += tolower(c);  // Convert to lowercase and add to the new string
+        while (start <= last) {
+            char currFirst = s[start];
+            char currLast = s[last];
+
+            if (!isalnum(currFirst)) {
+                start++;
+            } else if (!isalnum(currLast)) {
+                last--;
+            } else {
+                if (tolower(currFirst) != tolower(currLast)) {
+                    return false;
+                }
+                start++;
+                last--;
+            }
         }
-    }
-
-    // Step 2: Check if the string is a palindrome
-    int left = 0, right = normalizedString.size() - 1;
-    while (left < right) {
-        if (normalizedString[left] != normalizedString[right]) {
-            return false;  // Not a palindrome
-        }
-        left++;
-        right--;
-    }
-
-    return true;  // It's a palindrome
+        return true;
     }
 };
