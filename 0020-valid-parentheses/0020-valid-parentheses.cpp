@@ -6,10 +6,13 @@ public:
             if (c == '(' || c == '[' || c == '{') s1.push(c);
             else {
                 if (s1.empty()) return false;
-                if ((c == ')' && s1.top() != '(') ||
-                    (c == ']' && s1.top() != '[') ||
-                    (c == '}' && s1.top() != '{')) return false;
-                s1.pop();
+                if ((c == ')' && s1.top() == '(') ||
+                    (c == ']' && s1.top() == '[') ||
+                    (c == '}' && s1.top() == '{'))s1.pop();
+                    else{
+                        s1.push(c);
+                    }
+               
             }
         }
         return s1.empty();
