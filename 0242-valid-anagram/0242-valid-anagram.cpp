@@ -1,29 +1,25 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-  unordered_map<char, int> umap1;  // Map for string s
-    unordered_map<char, int> umap2;  // Map for string t
-
-    // If sizes don't match, it's not an anagram
-    if (s.size() != t.size()) {
-        return false;
-    }
-
-    // Count frequency of characters in both strings
-    for (int i = 0; i < s.size(); i++) {
-        umap1[s[i]]++;
-        umap2[t[i]]++;
-    }
-
-    // Compare both maps
-    for (auto& entry : umap1) {
-        if (umap2[entry.first] != entry.second) {
-            return false;
+        int count[26] = {0};
+        
+        // Count the frequency of characters in string s
+        for (char x : s) {
+            count[x - 'a']++;
         }
-    }
-
-    return true;
-
-
+        
+        // Decrement the frequency of characters in string t
+        for (char x : t) {
+            count[x - 'a']--;
+        }
+        
+        // Check if any character has non-zero frequency
+        for (int val : count) {
+            if (val != 0) {
+                return false;
+            }
+        }
+        
+        return true;
     }
 };
