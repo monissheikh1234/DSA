@@ -8,7 +8,7 @@ public:
             char currFirst = s[start];
             char currLast = s[last];
 
-            if (!isalnum(currFirst)) {
+            if (!isalnum(currFirst)) {        //checking alphanumeric character
                 start++;
             } else if (!isalnum(currLast)) {
                 last--;
