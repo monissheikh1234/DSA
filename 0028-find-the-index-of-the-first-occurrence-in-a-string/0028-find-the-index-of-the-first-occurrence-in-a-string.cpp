@@ -1,14 +1,12 @@
 class Solution {
-public:
-    int strStr(string haystack, string needle) {
-         int m = haystack.size(), n = needle.size();
-    if (n == 0) return 0; // Edge case: empty needle
+ public:
+  int strStr(string haystack, string needle) {
+    const int m = haystack.length();
+    const int n = needle.length();
+    for (int i = 0; i < m - n + 1; i++)
+      if (haystack.substr(i, n) == needle)
+        return i;
 
-    for (int i = 0; i <= m - n; ++i) {
-        if (haystack.substr(i, n) == needle) {
-            return i; // Found the first occurrence
-        }
-    }
-    return -1; // Needle not found
-    }
+    return -1;
+  }
 };
