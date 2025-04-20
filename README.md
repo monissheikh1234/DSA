@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/monissheikh1234/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/monissheikh1234/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/monissheikh1234/DSA/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/monissheikh1234/DSA/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/monissheikh1234/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/monissheikh1234/DSA/tree/master/0299-bulls-and-cows) |
 | [0412-fizz-buzz](https://github.com/monissheikh1234/DSA/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/monissheikh1234/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/monissheikh1234/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/monissheikh1234/DSA/tree/master/0812-rotate-string) |
