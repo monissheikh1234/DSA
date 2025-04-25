@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/monissheikh1234/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/monissheikh1234/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/monissheikh1234/DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/monissheikh1234/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/monissheikh1234/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/monissheikh1234/DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/monissheikh1234/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/monissheikh1234/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
@@ -303,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/monissheikh1234/DSA/tree/master/0238-product-of-array-except-self) |
+| [2915-count-of-interesting-subarrays](https://github.com/monissheikh1234/DSA/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
