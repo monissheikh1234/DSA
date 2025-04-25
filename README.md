@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/monissheikh1234/DSA/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/monissheikh1234/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/monissheikh1234/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/monissheikh1234/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/monissheikh1234/DSA/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/monissheikh1234/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/monissheikh1234/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/monissheikh1234/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monissheikh1234/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/monissheikh1234/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Tree
 |  |
 | ------- |
