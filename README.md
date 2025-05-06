@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/monissheikh1234/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/monissheikh1234/DSA/tree/master/0053-maximum-subarray) |
+| [0095-unique-binary-search-trees-ii](https://github.com/monissheikh1234/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monissheikh1234/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/monissheikh1234/DSA/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/monissheikh1234/DSA/tree/master/1013-fibonacci-number) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/monissheikh1234/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/monissheikh1234/DSA/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/monissheikh1234/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/monissheikh1234/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/monissheikh1234/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
 ## Linked List
 |  |
@@ -313,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/monissheikh1234/DSA/tree/master/0238-product-of-array-except-self) |
 | [2915-count-of-interesting-subarrays](https://github.com/monissheikh1234/DSA/tree/master/2915-count-of-interesting-subarrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/monissheikh1234/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
