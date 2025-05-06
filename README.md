@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/monissheikh1234/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/monissheikh1234/DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/monissheikh1234/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/monissheikh1234/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/monissheikh1234/DSA/tree/master/0053-maximum-subarray) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/monissheikh1234/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/monissheikh1234/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/monissheikh1234/DSA/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/monissheikh1234/DSA/tree/master/0095-unique-binary-search-trees-ii) |
