@@ -1,20 +1,16 @@
 class Solution {
 public:
+    double calcPow(double x, int n){
+        if(n==0) return 1.0;
+        if(n==1) return x;
+        // return x*calcPow(x,n-1);
+        double half = calcPow(x,n/2);
+        return (n%2==0)? half*half : half*half*x;
+    }
     double myPow(double x, int n) {
-        long long power = n; // Use long long to handle edge cases for INT_MIN
-    if (power < 0) {
-        x = 1 / x;
-        power = -power;
-    }
-
-    double result = 1.0;
-    while (power > 0) {
-        if (power % 2 == 1) { // If the current power is odd
-            result *= x;
-        }
-        x *= x; // Square the base
-        power /= 2; // Halve the power
-    }
-    return result;
+        if(n==0) return 1.0;
+        if(n==1) return x;
+        if(n<0) return (1/calcPow(x,n));
+        return calcPow(x,n);
     }
 };
