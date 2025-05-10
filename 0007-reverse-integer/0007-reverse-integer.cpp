@@ -1,19 +1,12 @@
-class Solution {
+class Solution {                      
 public:
     int reverse(int x) {
-        // int INT_MAX;
-        int r=0;
-      while(x!=0){
-        int digit=x%10;
-        if(r>INT_MAX/10 || (r==INT_MAX/10 && digit>7)){
-            return 0;
+        long r=0;      // decleare r 
+        while(x){
+         r=r*10+x%10; // find remainder and add its to r
+         x=x/10;     // Update the value of x
         }
-         if(r<INT_MIN/10 || (r==INT_MIN/10 && digit<-8)){
-            return 0;
-        }
-        r=r*10+digit;
-        x/=10;
-      }
-      return r;
+        if(r>INT_MAX || r<INT_MIN) return 0; // check range if r is outside the range then return 0  
+        return int(r);  // if r in the 32 bit range then return r
     }
-};
+}; 
