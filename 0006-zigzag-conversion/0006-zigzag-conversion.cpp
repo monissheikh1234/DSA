@@ -13,5 +13,5 @@ public:
        string ans;
        for(string row : pattern) ans += row;
        return ans;
-    }
+    }   
 };
