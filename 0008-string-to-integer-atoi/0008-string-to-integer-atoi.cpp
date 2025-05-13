@@ -1,36 +1,32 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     int myAtoi(string s) {
-      int result = 0;  // Stores and returns the integer converted value for s
-    int i = 0;
-    int digit;
-    int n = s.size();
-    int sign = 1;  // Determines if the number is positive or negative
+        int i = 0, sign = 1;
+        long res = 0; // Using long to handle overflow cases
 
-    // Ignore leading whitespace
-    while (i < n && s[i] == ' ') {
-        i++;
-    }
+        // Trim leading spaces
+        while (i < s.size() && s[i] == ' ') i++;
+        if (i == s.size()) return 0;
 
-    // Check for sign
-    if (i < n && (s[i] == '-' || s[i] == '+')) {
-        sign = (s[i] == '-') ? -1 : 1;
-        i++;
-    }
+        // Check for sign
+        if (s[i] == '-') { sign = -1; i++; }
+        else if (s[i] == '+') i++;
 
-    // Traverse the entire string and convert it into an integer
-    while (i < n && isdigit(s[i])) {
-        digit = s[i] - '0';
+        // Process numerical characters
+        while (i < s.size() && isdigit(s[i])) {
+            res = res * 10 + (s[i] - '0');
 
-        // Check for overflow
-        if (result > INT_MAX / 10 || (result == INT_MAX / 10 && digit > 7)) {
-            return (sign == 1) ? INT_MAX : INT_MIN;
+            // Handle overflow
+            if (sign * res > INT_MAX) return INT_MAX;
+            if (sign * res < INT_MIN) return INT_MIN;
+
+            i++;
         }
 
-        result = result * 10 + digit;
-        i++;
-    }
-
-    return result * sign;
+        return (int)(sign * res);
     }
 };
