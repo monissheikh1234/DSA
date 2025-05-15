@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/monissheikh1234/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/monissheikh1234/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/monissheikh1234/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/monissheikh1234/DSA/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/monissheikh1234/DSA/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/monissheikh1234/DSA/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/monissheikh1234/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/monissheikh1234/DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/monissheikh1234/DSA/tree/master/0400-nth-digit) |
 | [0792-binary-search](https://github.com/monissheikh1234/DSA/tree/master/0792-binary-search) |
 ## Hash Table
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/monissheikh1234/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/monissheikh1234/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/monissheikh1234/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/monissheikh1234/DSA/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/monissheikh1234/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/monissheikh1234/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/monissheikh1234/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/monissheikh1234/DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/monissheikh1234/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/monissheikh1234/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/monissheikh1234/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/monissheikh1234/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/monissheikh1234/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/monissheikh1234/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/monissheikh1234/DSA/tree/master/0400-nth-digit) |
