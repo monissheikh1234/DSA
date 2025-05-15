@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/monissheikh1234/DSA/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/monissheikh1234/DSA/tree/master/0368-largest-divisible-subset) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/monissheikh1234/DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/monissheikh1234/DSA/tree/master/0792-binary-search) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/monissheikh1234/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/monissheikh1234/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/monissheikh1234/DSA/tree/master/0299-bulls-and-cows) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/monissheikh1234/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/monissheikh1234/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/monissheikh1234/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
