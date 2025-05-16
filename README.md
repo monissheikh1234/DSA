@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/monissheikh1234/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/monissheikh1234/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/monissheikh1234/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/monissheikh1234/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/monissheikh1234/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/monissheikh1234/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/monissheikh1234/DSA/tree/master/0054-spiral-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/monissheikh1234/DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/monissheikh1234/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/monissheikh1234/DSA/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
