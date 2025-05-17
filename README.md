@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/monissheikh1234/DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/monissheikh1234/DSA/tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/monissheikh1234/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/monissheikh1234/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/monissheikh1234/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/monissheikh1234/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/monissheikh1234/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/monissheikh1234/DSA/tree/master/0443-string-compression) |
+| [0875-longest-mountain-in-array](https://github.com/monissheikh1234/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/monissheikh1234/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monissheikh1234/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/monissheikh1234/DSA/tree/master/0368-largest-divisible-subset) |
+| [0875-longest-mountain-in-array](https://github.com/monissheikh1234/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/monissheikh1234/DSA/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/monissheikh1234/DSA/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/monissheikh1234/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/monissheikh1234/DSA/tree/master/1656-count-good-triplets) |
 | [3548-find-the-count-of-good-integers](https://github.com/monissheikh1234/DSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
