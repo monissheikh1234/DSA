@@ -1,6 +1,5 @@
 class Solution{
-    public:
-    
+public:
 vector<vector<int>> threeSum(vector<int>& nums) {
     int n = nums.size();
     vector<vector<int>> ans;
@@ -24,9 +23,7 @@ vector<vector<int>> threeSum(vector<int>& nums) {
                 while (j < k && nums[j] == nums[j - 1]) j++;
             }
         }
-    }
-    
-    return ans;
+    }return ans;
 }
 };
 
