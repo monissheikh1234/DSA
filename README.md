@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/monissheikh1234/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/monissheikh1234/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/monissheikh1234/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/monissheikh1234/DSA/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/monissheikh1234/DSA/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/monissheikh1234/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/monissheikh1234/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/monissheikh1234/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/monissheikh1234/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/monissheikh1234/DSA/tree/master/0443-string-compression) |
 | [0875-longest-mountain-in-array](https://github.com/monissheikh1234/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/monissheikh1234/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/monissheikh1234/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/monissheikh1234/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0400-nth-digit](https://github.com/monissheikh1234/DSA/tree/master/0400-nth-digit) |
 | [0792-binary-search](https://github.com/monissheikh1234/DSA/tree/master/0792-binary-search) |
 ## Hash Table
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/monissheikh1234/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/monissheikh1234/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/monissheikh1234/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/monissheikh1234/DSA/tree/master/0371-sum-of-two-integers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/monissheikh1234/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String
