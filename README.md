@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/monissheikh1234/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monissheikh1234/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/monissheikh1234/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/monissheikh1234/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/monissheikh1234/DSA/tree/master/0204-count-primes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/monissheikh1234/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/monissheikh1234/DSA/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/monissheikh1234/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/monissheikh1234/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/monissheikh1234/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/monissheikh1234/DSA/tree/master/0217-contains-duplicate) |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/monissheikh1234/DSA/tree/master/1395-minimum-time-visiting-all-points) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/monissheikh1234/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
