@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/monissheikh1234/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/monissheikh1234/DSA/tree/master/0443-string-compression) |
 | [0875-longest-mountain-in-array](https://github.com/monissheikh1234/DSA/tree/master/0875-longest-mountain-in-array) |
+| [0908-middle-of-the-linked-list](https://github.com/monissheikh1234/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/monissheikh1234/DSA/tree/master/0002-add-two-numbers) |
+| [0908-middle-of-the-linked-list](https://github.com/monissheikh1234/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
