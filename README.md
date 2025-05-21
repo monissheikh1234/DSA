@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/monissheikh1234/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/monissheikh1234/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/monissheikh1234/DSA/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/monissheikh1234/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/monissheikh1234/DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/monissheikh1234/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/monissheikh1234/DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/monissheikh1234/DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/monissheikh1234/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Combinatorics
 |  |
