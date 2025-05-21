@@ -1,11 +1,13 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-      auto it=remove(nums.begin(),nums.end(),val);
-
-         nums.resize(distance(nums.begin(),it));
-              return nums.size();
-    // return -1;
-   
+        int index = 0;
+        for(int i = 0; i< nums.size(); i++){
+            if(nums[i] != val){
+                nums[index] = nums[i];
+                index++;
+            }
+        }
+        return index;
     }
 };
