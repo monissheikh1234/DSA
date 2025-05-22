@@ -24,7 +24,7 @@ public:
           if(next->val==val){
  curr->next=next->next;
 //  curr=curr->next;
- next=curr->next;
+ next=next->next;
 //  next=next->next->next;
           }
           else{
