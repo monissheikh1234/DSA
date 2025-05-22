@@ -1,28 +1,48 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        // Some Brute Force Steps to follow
-        // 1) Reverse the list and store it in r_head;
-        // and then compare head->val and r_head->val if equal move both the pointers otherwise if not equal return false.
-        // When the loop will be executed fully retrun true
-         if(head == NULL || head->next == NULL){
-            return (head);
+        if (!head || !head->next) return true;
+
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while (fast->next && fast->next->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        ListNode *r_head = NULL;
-        ListNode *ptr = head;
-        while(ptr!=NULL){
-            ListNode *temp = new ListNode(ptr->val);
-            temp ->next = r_head;
-            r_head = temp;
-            ptr = ptr->next;
+
+        slow = slow->next;
+
+        ListNode* prev = nullptr;
+        ListNode* curr = slow;
+        while (curr) {
+            ListNode* tmp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = tmp;
         }
-        while(head && r_head){
-            if(head->val != r_head->val){
+
+
+        ListNode* left = head;
+        ListNode* right = prev;
+        while (right) {
+            if (left->val != right->val) 
                 return false;
-            }
-            head = head->next;
-            r_head = r_head->next;
+            left  = left->next;
+            right = right->next;
         }
+
         return true;
     }
 };
