@@ -21,7 +21,7 @@ public:
                     s1.pop();
                 }
                 else {
-                    s1.push(c); // Mismatched closing bracket
+                    s1.push(c); 
                 }
             }
         }
