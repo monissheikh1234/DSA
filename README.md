@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/monissheikh1234/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/monissheikh1234/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/monissheikh1234/DSA/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/monissheikh1234/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/monissheikh1234/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -397,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/monissheikh1234/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/monissheikh1234/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
