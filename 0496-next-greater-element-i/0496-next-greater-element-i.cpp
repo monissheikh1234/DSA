@@ -11,6 +11,7 @@ public:
             // Remove all elements smaller than or equal to element
             while (!helperStack.empty() && helperStack.top() <= element) {
                 helperStack.pop();
+                
             }
 
             if (!helperStack.empty()) {
