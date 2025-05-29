@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/monissheikh1234/DSA/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/monissheikh1234/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2195-time-needed-to-buy-tickets](https://github.com/monissheikh1234/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/monissheikh1234/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/monissheikh1234/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/monissheikh1234/DSA/tree/master/2915-count-of-interesting-subarrays) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/monissheikh1234/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/monissheikh1234/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/monissheikh1234/DSA/tree/master/0412-fizz-buzz) |
+| [2195-time-needed-to-buy-tickets](https://github.com/monissheikh1234/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/monissheikh1234/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/monissheikh1234/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [2195-time-needed-to-buy-tickets](https://github.com/monissheikh1234/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
