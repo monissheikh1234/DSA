@@ -10,31 +10,23 @@
  * };
  */
 class Solution {
-    int height(TreeNode* root) {
-        if (!root) return 0;
-        return 1 + max(height(root->left), height(root->right));
-    }
-
-    void printlevel(long long &ans, TreeNode* root, int currl, int reql, long long &n) {
-        if (!root) return;
-        if (currl == reql) {
-            ans += root->val;
-            n++;
-        } else {
-            printlevel(ans, root->left, currl + 1, reql, n);
-            printlevel(ans, root->right, currl + 1, reql, n);
-        }
-    }
-
 public:
-    vector<double> averageOfLevels(TreeNode* root) {
-        int h = height(root);
-        vector<double> ans;
-        for (int i = 1; i <= h; i++) {
-            long long sum = 0, count = 0;
-            printlevel(sum, root, 1, i, count);
-            ans.push_back((double)sum / count);
+       vector<double> averageOfLevels(TreeNode* root) {
+        vector<double> res;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()) {
+            long temp=0;
+            int s=q.size();
+            for(int i=0;i<s;i++) {
+                TreeNode* t=q.front();
+                q.pop();
+                if(t->left) q.push(t->left);
+                if(t->right) q.push(t->right);
+                temp+=t->val;
+            }
+            res.push_back((double)temp/s);
         }
-        return ans;
+        return res;
     }
 };
