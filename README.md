@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/monissheikh1234/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/monissheikh1234/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Sliding Window
@@ -362,17 +363,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/monissheikh1234/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/monissheikh1234/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/monissheikh1234/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/monissheikh1234/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/monissheikh1234/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/monissheikh1234/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/monissheikh1234/DSA/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/monissheikh1234/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/monissheikh1234/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
 |  |
