@@ -16,7 +16,7 @@ public:
         levelQueue.push(root);
         levelQueue.push(nullptr);  // Level separator
 
-        vector<double> avgList;
+        vector<double> arr;
 
         while (levelQueue.front() != nullptr) {
             double sum = 0;
@@ -37,9 +37,9 @@ public:
             levelQueue.push(levelQueue.front());
             levelQueue.pop();
 
-            avgList.push_back(sum / nodes);
+            arr.push_back(sum / nodes);
         }
 
-        return avgList;
+        return arr;
     }
 };
