@@ -1,33 +1,45 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-          int left = 0, right = nums.size() - 1;
+      int getpivot(vector<int>& arr) {
+        int l = 0;
+        int r = arr.size()-1;
+        
+        while(l<r){
+            int mid = l +(r-l)/2;
+            if(arr[mid]>=arr[0]){
+                l = mid+1;
+            }
+            else{
+                r = mid;
+            }
+          
+        }
+   return l; 
+   }
+   
+    int bs(vector<int>& nums,int low,int high,int target){
+        if(low>high){
+            return -1;
+        }
+        int mid=(low+high)/2;
 
-    while (left <= right) {
-        int mid = left + (right - left) / 2;
-
-        // If the target is found
-        if (nums[mid] == target) {
+        if(nums[mid]==target){
             return mid;
+        }else if(nums[mid]>target){
+            return bs(nums,low,mid-1,target);
+        }else{
+            return bs(nums,mid+1,high,target);
         }
 
-        // Check which part is sorted
-        if (nums[left] <= nums[mid]) { // Left part is sorted
-            if (nums[left] <= target && target < nums[mid]) {
-                right = mid - 1; // Target is in the left part
-            } else {
-                left = mid + 1; // Target is in the right part
-            }
-        } else { // Right part is sorted
-            if (nums[mid] < target && target <= nums[right]) {
-                left = mid + 1; // Target is in the right part
-            } else {
-                right = mid - 1; // Target is in the left part
-            }
-        }
     }
-
-    // If the target is not found
-    return -1;
+   int search(vector<int>& nums, int target) {
+     int n  = nums.size();
+        int pivot = getpivot(nums);
+        if(target>=nums[pivot] && target<=nums[n-1]){
+            return bs(nums,pivot,n-1,target);
+        }
+      else{
+        return bs(nums,0,pivot-1,target);
+      }
     }
 };
