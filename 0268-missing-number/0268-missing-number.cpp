@@ -25,14 +25,12 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int n = nums.size();
-        int expected_sum = n * (n + 1) / 2; // Sum of first n natural numbers
-        int actual_sum = 0;
-        
-        for (int num : nums) {
-            actual_sum += num;
-        }
-        
-        return expected_sum - actual_sum;
+int n=nums.size();
+int x=n*(n+1)/2;
+int rs=0;
+for(int i=0;i<n;i++){
+    rs+=nums[i];
+}
+return x-rs;
     }
 };
