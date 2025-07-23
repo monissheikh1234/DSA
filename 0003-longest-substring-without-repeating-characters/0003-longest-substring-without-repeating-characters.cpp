@@ -5,14 +5,14 @@ public:
         int ans = 0;
         vector<int> arr(128, 0);
         int l = 0;
-        for (int r = 0; r < s.length(); r++) {
-            int curr = s[r];
+        for (int i = 0; i < s.length(); i++) {
+            int curr = s[i];
             while (arr[curr] > 0) {
                 arr[s[l]]--;
                 l++;
             }
             arr[curr]++;
-            ans = max(ans, r - l + 1);
+            ans = max(ans, i - l + 1);
         }
         return ans;
     }
