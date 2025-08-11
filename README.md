@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/monissheikh1234/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/monissheikh1234/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/monissheikh1234/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/monissheikh1234/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/monissheikh1234/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/monissheikh1234/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/monissheikh1234/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/monissheikh1234/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/monissheikh1234/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/monissheikh1234/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/monissheikh1234/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/monissheikh1234/DSA/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/monissheikh1234/DSA/tree/master/0126-word-ladder-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/monissheikh1234/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/monissheikh1234/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/monissheikh1234/DSA/tree/master/0054-spiral-matrix) |
 ## Enumeration
