@@ -1,17 +1,19 @@
+#include<bits/stdc++.h>
+
 class Solution {
 public:
     int maxDepth(string s) {
-        int currcount=0;
-        int maxcount=0;
-        for(int i=0;i<s.size();i++){
-            if(s[i]=='('){
-                currcount++;
-                maxcount=max(currcount,maxcount);
+        stack<int> st;
+        int maxsize=0;
+        for(char ch: s){
+            if(ch=='('){
+                st.push('(');
+                maxsize=max(maxsize,(int)st.size());
             }
-            if(s[i]==')'){
-                currcount--;
+            else if(ch==')'){
+                st.pop();
             }
         }
-        return maxcount;
+        return maxsize;
     }
 };
