@@ -17,3 +17,23 @@ public:
         return maxsize;
     }
 };
+
+
+// class Solution {
+// public:
+//     int maxDepth(string s) {
+//         int depth = 0;     // Current depth
+//         int maxDepth = 0;  // Maximum depth seen so far
+
+//         for(char ch : s) {
+//             if(ch == '(') {
+//                 depth++;                // Increase current depth
+//                 maxDepth = max(maxDepth, depth); // Update max depth
+//             } else if(ch == ')') {
+//                 depth--;                // Decrease depth
+//             }
+//         }
+
+//         return maxDepth;
+//     }
+// };
