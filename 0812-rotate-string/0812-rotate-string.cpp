@@ -1,13 +1,9 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-     
-    if (s.size() != goal.size()) {
+        if(s.length() != goal.length()) return false;
+        s = s+s;
+        if(s.find(goal) != string::npos) return true;
         return false;
-    }
-    string doubled = s + s;  // Double the string
-    return doubled.find(goal) != string::npos;  // Check if goal is a substring
-
-
     }
 };
